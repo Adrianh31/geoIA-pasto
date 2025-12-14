@@ -2,7 +2,7 @@
 
 **Inteligencia Artificial Geoespacial para San Juan de Pasto, Colombia**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/geoai/blob/main/GeoIA-Pasto/notebooks/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Adrianh31/geoIA-pasto/blob/main/notebooks/)
 
 ---
 
@@ -30,14 +30,14 @@ Todos los notebooks estan diseñados para ejecutarse directamente en **Google Co
 
 | # | Notebook | Descripcion | Abrir en Colab |
 |---|----------|-------------|----------------|
-| 1 | [01_Introduccion_GeoIA_Pasto.ipynb](notebooks/01_Introduccion_GeoIA_Pasto.ipynb) | Introduccion y configuracion del entorno | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/geoai/blob/main/GeoIA-Pasto/notebooks/01_Introduccion_GeoIA_Pasto.ipynb) |
-| 2 | [02_Descarga_Imagenes_Satelitales_Pasto.ipynb](notebooks/02_Descarga_Imagenes_Satelitales_Pasto.ipynb) | Descarga de imagenes Sentinel-2 y Landsat | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/geoai/blob/main/GeoIA-Pasto/notebooks/02_Descarga_Imagenes_Satelitales_Pasto.ipynb) |
-| 3 | [03_Analisis_NDVI_Vegetacion_Pasto.ipynb](notebooks/03_Analisis_NDVI_Vegetacion_Pasto.ipynb) | Analisis de vegetacion con indices espectrales | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/geoai/blob/main/GeoIA-Pasto/notebooks/03_Analisis_NDVI_Vegetacion_Pasto.ipynb) |
-| 4 | [04_Deteccion_Edificios_Pasto.ipynb](notebooks/04_Deteccion_Edificios_Pasto.ipynb) | Deteccion automatica de edificios con IA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/geoai/blob/main/GeoIA-Pasto/notebooks/04_Deteccion_Edificios_Pasto.ipynb) |
-| 5 | [05_Segmentacion_Uso_Suelo_Pasto.ipynb](notebooks/05_Segmentacion_Uso_Suelo_Pasto.ipynb) | Clasificacion de cobertura y uso del suelo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/geoai/blob/main/GeoIA-Pasto/notebooks/05_Segmentacion_Uso_Suelo_Pasto.ipynb) |
-| 6 | [06_Deteccion_Cambios_Urbanos_Pasto.ipynb](notebooks/06_Deteccion_Cambios_Urbanos_Pasto.ipynb) | Deteccion de cambios multi-temporales | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/geoai/blob/main/GeoIA-Pasto/notebooks/06_Deteccion_Cambios_Urbanos_Pasto.ipynb) |
-| 7 | [07_Visualizacion_Interactiva_Pasto.ipynb](notebooks/07_Visualizacion_Interactiva_Pasto.ipynb) | Mapas interactivos y visualizacion de datos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/geoai/blob/main/GeoIA-Pasto/notebooks/07_Visualizacion_Interactiva_Pasto.ipynb) |
-| 8 | [08_Agentes_IA_Geoespacial_Pasto.ipynb](notebooks/08_Agentes_IA_Geoespacial_Pasto.ipynb) | Agentes IA para analisis geoespacial automatizado | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/geoai/blob/main/GeoIA-Pasto/notebooks/08_Agentes_IA_Geoespacial_Pasto.ipynb) |
+| 1 | [01_Introduccion_GeoIA_Pasto.ipynb](notebooks/01_Introduccion_GeoIA_Pasto.ipynb) | Introduccion y configuracion del entorno | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Adrianh31/geoIA-pasto/blob/main/notebooks/01_Introduccion_GeoIA_Pasto.ipynb) |
+| 2 | [02_Descarga_Imagenes_Satelitales_Pasto.ipynb](notebooks/02_Descarga_Imagenes_Satelitales_Pasto.ipynb) | Descarga de imagenes Sentinel-2 y Landsat | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Adrianh31/geoIA-pasto/blob/main/notebooks/02_Descarga_Imagenes_Satelitales_Pasto.ipynb) |
+| 3 | [03_Analisis_NDVI_Vegetacion_Pasto.ipynb](notebooks/03_Analisis_NDVI_Vegetacion_Pasto.ipynb) | Analisis de vegetacion con indices espectrales | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Adrianh31/geoIA-pasto/blob/main/notebooks/03_Analisis_NDVI_Vegetacion_Pasto.ipynb) |
+| 4 | [04_Deteccion_Edificios_Pasto.ipynb](notebooks/04_Deteccion_Edificios_Pasto.ipynb) | Deteccion automatica de edificios con IA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Adrianh31/geoIA-pasto/blob/main/notebooks/04_Deteccion_Edificios_Pasto.ipynb) |
+| 5 | [05_Segmentacion_Uso_Suelo_Pasto.ipynb](notebooks/05_Segmentacion_Uso_Suelo_Pasto.ipynb) | Clasificacion de cobertura y uso del suelo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Adrianh31/geoIA-pasto/blob/main/notebooks/05_Segmentacion_Uso_Suelo_Pasto.ipynb) |
+| 6 | [06_Deteccion_Cambios_Urbanos_Pasto.ipynb](notebooks/06_Deteccion_Cambios_Urbanos_Pasto.ipynb) | Deteccion de cambios multi-temporales | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Adrianh31/geoIA-pasto/blob/main/notebooks/06_Deteccion_Cambios_Urbanos_Pasto.ipynb) |
+| 7 | [07_Visualizacion_Interactiva_Pasto.ipynb](notebooks/07_Visualizacion_Interactiva_Pasto.ipynb) | Mapas interactivos y visualizacion de datos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Adrianh31/geoIA-pasto/blob/main/notebooks/07_Visualizacion_Interactiva_Pasto.ipynb) |
+| 8 | [08_Agentes_IA_Geoespacial_Pasto.ipynb](notebooks/08_Agentes_IA_Geoespacial_Pasto.ipynb) | Agentes IA para analisis geoespacial automatizado | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Adrianh31/geoIA-pasto/blob/main/notebooks/08_Agentes_IA_Geoespacial_Pasto.ipynb) |
 
 ---
 
@@ -159,3 +159,4 @@ Este proyecto esta bajo la Licencia MIT. Ver el archivo [LICENSE](../LICENSE) pa
 ## Contacto
 
 Para preguntas o sugerencias sobre los ejemplos de Pasto, por favor abre un issue en el repositorio.
+
