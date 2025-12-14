@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.tif
+*.geojson
+data/*.tif
+.env
+venv/
